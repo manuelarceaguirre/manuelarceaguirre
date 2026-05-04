@@ -21,33 +21,6 @@ Most of what I build starts with the same instinct: take a messy technical domai
 - Scheduler-aware GPU performance tuning and deployment ergonomics
 - Weird crossovers between finance, hardware, infrastructure, and applied AI
 
-## How I Think
-
-I care a lot about first-principles analysis, source quality, and causal explanations.
-
-If a system is slow, I want to know where the time goes.
-If a claim is important, I want an evidence trail.
-If a domain is complex, I want a model of how it actually works under the hood.
-
-That mindset shows up across everything I touch: semiconductor analysis, fab mapping, Chinese/Taiwanese corporate research, GPU inference tuning, internal knowledge tooling, and visualization.
-
-## Projects That Feel Like Me
-
-- A semiconductor research workspace combining notes, datasets, visualizations, and long-form technical writing
-- OSINT tooling for filings, corporate records, patents, satellite imagery, and evidence tracking
-- A fab ontology/database mapping semiconductor facilities at the site and phase level
-- Reader/parser tools for semiconductor newsletters and research archives
-- Visualization work around AI researchers, capital flows, and technical ecosystems
-
-## Current Interests
-
-- Semiconductor industry structure and competitive dynamics
-- HBM, advanced packaging, co-packaged optics, and foundry economics
-- GPU clusters and inference performance
-- `vLLM` serving, batching behavior, memory pressure, and throughput/latency tradeoffs
-- `Slurm` job design for real-world multi-GPU workloads
-- Agentic tooling that is grounded in real data and real systems constraints
-
 ## Philosophy
 
 I like research that can survive contact with reality.
